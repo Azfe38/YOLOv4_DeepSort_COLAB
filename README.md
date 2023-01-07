@@ -17,4 +17,4 @@ Object tracking implemented on videos with YOLOv4, DeepSort and TensorFlow.
 
 <p align="center"><img src="data/helpers/way.gif"\></p>
 
-For more: Azfe38@gmail.com
+For more -> Azfe38@gmail.com
