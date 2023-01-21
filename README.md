@@ -1,4 +1,4 @@
-# YOLOv4_DeepSort_TensorFlow
+# YOLOv4_DeepSort_COLAB
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hXoYnV0umDoZB5nkl1eZI75h9AnslRLi?usp=sharing)
 
